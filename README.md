@@ -1,0 +1,2 @@
+# AnkiDojoConverter
+Convert AnkiDojo  CSV
